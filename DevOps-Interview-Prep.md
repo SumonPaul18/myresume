@@ -83,9 +83,11 @@
 - **Bengali:** "আমি ইন্ডাস্ট্রি ব্লগগুলি অনুসরণ করে, ওয়েবিনারে অংশগ্রহণ করে, কনফারেন্সে যোগ দিয়ে এবং DevOps কমিউনিটিগুলির সক্রিয় সদস্য হয়ে আপডেট থাকি। ক্রমাগত শেখা এই ক্ষেত্রে অত্যন্ত গুরুত্বপূর্ণ কারণ প্রযুক্তিগুলি দ্রুত পরিবর্তিত হচ্ছে।"
 
 ---
+
 Interviewer: "Welcome, Sumon! Can you please introduce yourself and tell us a bit about your background?"
 
 Sumon: "Thank you for the warm welcome. I am a software engineer with a passion for innovation and problem-solving. I graduated with a Bachelor's degree in Computer Science from XYZ University, where I was actively involved in various tech clubs and projects. Over the past five years, I have gained extensive experience in web development, working with companies like ABC Corp and DEF Ltd. At ABC Corp, I led a team that developed a cutting-edge e-commerce platform, which increased the company's online sales by 30%. I am particularly skilled in JavaScript, Python, and cloud technologies. In my free time, I enjoy contributing to open-source projects and staying updated with the latest industry trends. I am excited about this opportunity because I believe my skills and experiences align well with your company's goals, and I am eager to contribute to your team's success."
+
 ---
 আপনার জন্য একটি DevOps Engineer হিসেবে ইন্টারভিউতে সফল হওয়ার জন্য আমি কিছু সম্ভাব্য প্রশ্ন ও উত্তর দিচ্ছি। এছাড়াও, আমি আপনাকে বাংলা ও ইংরেজি উভয় ভাষায় ডায়ালগ শেখাব, যাতে আপনি সহজেই ইংরেজিতে উত্তর দিতে পারেন।
 
